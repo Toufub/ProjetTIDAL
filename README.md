@@ -8,7 +8,7 @@ Fonctionnalités du framework PHP
     => redirige automatiquement sur la bonne action des controleurs en fonction de la route
     
 * Gère l'authentification en natif
-    => gestion transparente des sessions
+    => gestion transparente des sessions pour l'utilisateur du framework
     => gestion des roles et possibilités de limiter l'accès à certains controleurs
     
 * Gère les formulaires
