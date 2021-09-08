@@ -16,6 +16,7 @@ Fonctionnalités du framework PHP
     => gère le submit et actualise la bdd directement
     
 * ORM type Doctrine
-     => au moins en lecture
+     => Lecture des données
+     => Ecriture des données (modification / ajout)
 
 Voir si on intègre Twig pour le templating
